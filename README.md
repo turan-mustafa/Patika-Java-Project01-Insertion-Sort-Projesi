@@ -59,7 +59,7 @@ O(n^2)
 [2,6,16,18,22,27]
 Average case: Aradığımız sayının ortada olması kapsamında girer.
 
-[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 [7,3,5,8,2,9,4,15,6]
 [2,7,3,5,8,9,4,15,6] - > Adım 1
